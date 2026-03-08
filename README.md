@@ -38,7 +38,7 @@ path_ is a minimalist platform for sharing two types of creative AI content:
 
 ## Screenshots
 
-![Uploading Screenshot 2026-03-08 at 16.14.33.png…]()
+<img width="1799" height="1037" alt="Screenshot 2026-03-08 at 16 15 18" src="https://github.com/user-attachments/assets/08d7d88c-b449-4b1c-b1b4-9b37e3010b96" />
 
 
 ---
