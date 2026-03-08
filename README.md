@@ -2,16 +2,11 @@
 
 A calm platform to collect, curate, and share creative AI work.
 
-## The Problem
+## Screenshots
 
-Creative AI work is scattered across Twitter threads, Discord servers, and GitHub repos. There's no dedicated space to share, discover, and reproduce AI experiments with proper attribution and context.
+<img width="1799" height="1037" alt="Screenshot 2026-03-08 at 16 15 18" src="https://github.com/user-attachments/assets/08d7d88c-b449-4b1c-b1b4-9b37e3010b96" />
 
-## The Solution
 
-path_ is a minimalist platform for sharing two types of creative AI content:
-
-- **One-shots** - A single prompt + context + model parameters with attached outputs. Fully reproducible.
-- **Multi-shots** - Creative code repos and projects (GitHub, HuggingFace, ComfyUI, etc.)
 
 ## Features
 
@@ -35,10 +30,6 @@ path_ is a minimalist platform for sharing two types of creative AI content:
 - Supabase (auth, database, storage)
 - shadcn/ui
 - OpenAI (auto title/description generation)
-
-## Screenshots
-
-<img width="1799" height="1037" alt="Screenshot 2026-03-08 at 16 15 18" src="https://github.com/user-attachments/assets/08d7d88c-b449-4b1c-b1b4-9b37e3010b96" />
 
 
 ---
